@@ -2,6 +2,6 @@
 #include <stdlib.h>
 
 int main(void){
-    printf("Barquillos a 2k\n")
-    return EXIT_SUCCESS
+    printf("Barquillos a 2k\n");
+    return EXIT_SUCCESS;
 }
